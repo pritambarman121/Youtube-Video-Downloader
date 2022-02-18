@@ -1,4 +1,3 @@
-from numpy import choose
 from pytube import YouTube
 url = input("\nenter your url :".upper())
 link = YouTube(url)
